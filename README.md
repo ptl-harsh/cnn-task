@@ -1,3 +1,6 @@
+
+## Building and Training a Convolutional Neural Network on the CIFAR-10 Dataset
+
 ### CNN for Image Classification on CIFAR-10 Dataset
 
 
