@@ -6,5 +6,5 @@ Libraries :  TensorFlow, matplotlib
 Dense layer with 64 units and ReLU activation  
 Dense output layer with 10 units and softmax activation 
 
-Optimizer: Adam
+Optimizer: Adam  
 Loss Function: Categorical Cross-Entropy
